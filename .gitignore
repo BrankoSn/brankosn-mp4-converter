@@ -1,0 +1,12 @@
+bin/
+downloads/
+__pycache__/
+.DS_Store
+CLAUDE.md
+build/
+dist/
+*.spec
+config.json
+previous/
+previews/
+.github/
